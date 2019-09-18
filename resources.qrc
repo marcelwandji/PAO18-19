@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>moto.png</file>
+        <file>camion.png</file>
+        <file>auto.png</file>
+        <file>attention.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>style.css</file>
+    </qresource>
+</RCC>

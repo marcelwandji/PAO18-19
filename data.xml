@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--File di salvataggio dell'applicazione. Non modificare a mano.-->
+<root>
+    <veicolo type="Autovettura">
+        <telaio>fg54123v</telaio>
+        <modello>FIAT500</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>GB887AA</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm011l</telaio>
+        <modello>dafxf 510</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>XS777K</targa>
+        <text>1</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>bh52107n3c</telaio>
+        <modello>Lancia ypsilon</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>GH458OP</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm012g</telaio>
+        <modello>fh-540</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>XD456PL</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>hy2310r</telaio>
+        <modello>Fiat Panda</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>Df785iu</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>bm521p</telaio>
+        <modello>bmw x4</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>EE123E</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>mk789l</telaio>
+        <modello>citroen c3</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>GT784HJ</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>ad2588e</telaio>
+        <modello>Fiat500</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>AA457FF</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm013a</telaio>
+        <modello>traliss56</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>XQ006FF</targa>
+        <text>1</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm014d</telaio>
+        <modello>dhd</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>XC615EE</targa>
+        <text>1</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>cd666f</telaio>
+        <modello>peugeot208</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>fg452gt</targa>
+        <text>7</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>ft553y</telaio>
+        <modello>Fiat500</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>BN547O</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>lo652v</telaio>
+        <modello>Ford Fiesta</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>GE478FX</targa>
+        <text>4</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm015c</telaio>
+        <modello>mercedesv1</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>XW458AQ</targa>
+        <text>1</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>lb100p</telaio>
+        <modello>Lamborgini</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>HD511AS</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm016t</telaio>
+        <modello>bmw c18</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>XN888Sa</targa>
+        <text>1</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>ly209k</telaio>
+        <modello>lancia ypsilon</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>AD543WR</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>ds882s</telaio>
+        <modello>dacia doker</modello>
+        <alimentazione>GPL</alimentazione>
+        <targa>AA111AA</targa>
+        <text>7</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>mz001x</telaio>
+        <modello>mazda cx-5</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>AA000AA</targa>
+        <text>4</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>bm827l</telaio>
+        <modello>bmw x4</modello>
+        <alimentazione>GPL</alimentazione>
+        <targa>AW123AA</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>fd117t</telaio>
+        <modello>ford fiesta</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>AA468ZE</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt0012</telaio>
+        <modello>mt-07</modello>
+        <alimentazione>GPL</alimentazione>
+        <targa>AA15789</targa>
+        <text>si</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm017m</telaio>
+        <modello>dafxf510</modello>
+        <alimentazione>GPL</alimentazione>
+        <targa>xa123ty</targa>
+        <text>2</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt0013</telaio>
+        <modello>bn 302</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>AA32104k</targa>
+        <text>no</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt013b</telaio>
+        <modello>xsr 900</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>RE12487</targa>
+        <text>si</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt0125fg</telaio>
+        <modello>cb125r</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>AX12304</targa>
+        <text>no</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>ct420v</telaio>
+        <modello>citroen c3</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>gg425ii</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>pg548j</telaio>
+        <modello>peugeot208</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>cc634be</targa>
+        <text>4</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt0126l</telaio>
+        <modello>mt-07</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>VO00000</targa>
+        <text>si</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt017s</telaio>
+        <modello>125 duke</modello>
+        <alimentazione>Benzina</alimentazione>
+        <targa>EF44321</targa>
+        <text>si</text>
+    </veicolo>
+    <veicolo type="Camion">
+        <telaio>cm018</telaio>
+        <modello>fh-540</modello>
+        <alimentazione>GPL</alimentazione>
+        <targa>xc777mm</targa>
+        <text>3</text>
+    </veicolo>
+    <veicolo type="Autovettura">
+        <telaio>lc323n</telaio>
+        <modello>lancia ypsilon</modello>
+        <alimentazione>Gasolio</alimentazione>
+        <targa>nh998df</targa>
+        <text>5</text>
+    </veicolo>
+    <veicolo type="Moto">
+        <telaio>mt019j</telaio>
+        <modello>vespa 05</modello>
+        <alimentazione>Metano</alimentazione>
+        <targa>mk088976</targa>
+        <text>si</text>
+    </veicolo>
+</root>
